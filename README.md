@@ -5,6 +5,7 @@ Welcome to my GitHub portfolio! Here, you’ll find a collection of projects I�
 ---
 
 ## 1. **[CO2 Emission Prediction - Spain 🌍💨](https://github.com/ikhsannovianto/co2-emission-prediction-spain)**  
+![CO2 Emission Prediction](docs-images/actual-prediction.png) 
 **Theme:** Green Economy 🌱  
 **Technologies Used:** Python, Jupyter Notebook, Random Forest, scikit-learn, Pandas, Numpy, etc
 This project focuses on predicting CO2 emissions based on industrial and economic indicators in Spain from 2010 to 2022 using **Random Forest Regression**. The goal is to uncover key drivers of CO2 emissions and promote data-driven strategies for sustainable development. 
@@ -18,6 +19,7 @@ This project focuses on predicting CO2 emissions based on industrial and economi
 ---
 
 ## 2. **[Real Madrid Android App ⚽📱](https://github.com/ikhsannovianto/Real-Madrid-App)**  
+![Real Madrid App](docs-images/preview-app.jpg) 
 **Technologies Used:** Kotlin, Android Studio, RecyclerView, Fragments  
 This Android app was developed using **Kotlin** and **Android Studio**, featuring three main fragments: Home, Legends, and Profile. The app showcases Real Madrid legends in a **RecyclerView** and allows users to view detailed profiles of legendary players.
 
@@ -30,6 +32,7 @@ This Android app was developed using **Kotlin** and **Android Studio**, featurin
 ---
 
 ## 3. **[Iuran Warga Web App 💻💰](https://github.com/ikhsannovianto/Iuran-Warga-App)**  
+![Iuran Warga Web App](docs-images/dashboard-preview.png)
 **Technologies Used:** PHP, Laravel, MySQL, XAMPP  
 A web application built with **Laravel** for managing resident contributions. The app allows two user roles (Admin and User) to perform CRUD operations and export data to **Excel** and **PDF** formats. It leverages **MySQL** and **XAMPP** for backend and database management.
 
@@ -42,6 +45,7 @@ A web application built with **Laravel** for managing resident contributions. Th
 ---
 
 ## 4. **[Game Space War 🌍👾](https://github.com/ikhsannovianto/Game-Space-War)**  
+![Game Space War](docs-images/game-preview.png) 
 **Theme:** Arcade Game Development 🎮  
 **Technologies Used:** Java, Greenfoot  
 
