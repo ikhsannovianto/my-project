@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio! Here, you’ll find a collection of projects I�
 
 ---
 
-## 1. **[CO2 Emission Prediction - Spain 🌍💨](https://github.com/ikhsannovianto/co2-emission-prediction-spain)**  
+## 1. **<a href="https://github.com/ikhsannovianto/co2-emission-prediction-spain" target="_blank">CO2 Emission Prediction - Spain 🌍💨</a>**  
 <img src="docs-images/actual-prediction.png" alt="CO2 Emission Prediction" width="400" style="border-radius: 10px; margin-bottom: 10px;">  
 
 **Theme:** Green Economy 🌱  
@@ -19,7 +19,7 @@ This project focuses on predicting CO2 emissions based on industrial and economi
 
 ---
 
-## 2. **[Real Madrid Android App ⚽📱](https://github.com/ikhsannovianto/Real-Madrid-App)**  
+## 2. **<a href="https://github.com/ikhsannovianto/Real-Madrid-App" target="_blank">Real Madrid Android App ⚽📱</a>**  
 <img src="docs-images/preview-app.jpg" alt="Real Madrid App" width="300" style="border-radius: 10px; margin-bottom: 10px; display: block;"> 
 
 **Technologies Used:** Kotlin, Android Studio, RecyclerView, Fragments  
@@ -33,7 +33,7 @@ This Android app was developed using **Kotlin** and **Android Studio**, featurin
 
 ---
 
-## 3. **[Iuran Warga Web App 💻💰](https://github.com/ikhsannovianto/Iuran-Warga-App)**  
+## 3. **<a href="https://github.com/ikhsannovianto/Iuran-Warga-App" target="_blank">Iuran Warga Web App 💻💰</a>**  
 <img src="docs-images/dashboard-preview.png" alt="Iuran Warga Web App" width="400" style="border-radius: 10px; margin-bottom: 10px;">  
 
 **Technologies Used:** PHP, Laravel, MySQL, XAMPP  
@@ -47,7 +47,7 @@ A web application built with **Laravel** for managing resident contributions. Th
 
 ---
 
-## 4. **[Game Space War 🌍👾](https://github.com/ikhsannovianto/Game-Space-War)**  
+## 4. **<a href="https://github.com/ikhsannovianto/Game-Space-War" target="_blank">Game Space War 🌍👾</a>**  
 <img src="docs-images/game-preview.png" alt="Game Space War" width="400" style="border-radius: 10px; margin-bottom: 10px;">  
 
 **Theme:** Arcade Game Development 🎮  
@@ -67,4 +67,4 @@ A web application built with **Laravel** for managing resident contributions. Th
 ## 🔗 **Connect with Me**  
 Feel free to reach out or connect with me through LinkedIn for collaboration or discussions on these projects!
 
-- [LinkedIn Profile](https://www.linkedin.com/in/ikhsanarinovianto)
+- <a href="https://www.linkedin.com/in/ikhsanarinovianto" target="_blank">LinkedIn Profile</a>
