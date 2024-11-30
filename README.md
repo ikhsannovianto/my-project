@@ -86,3 +86,8 @@ This Android app was developed using **Kotlin** and **Android Studio**, featurin
 Feel free to reach out or connect with me through LinkedIn for collaboration or discussions on these projects!
 
 - <a href="https://www.linkedin.com/in/ikhsanarinovianto" target="_blank">LinkedIn Profile</a>
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License**. You can find the full text of the MIT License in the [LICENSE](LICENSE) file in this repository.
