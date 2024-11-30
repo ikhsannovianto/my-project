@@ -5,9 +5,10 @@ Welcome to my GitHub portfolio! Here, you’ll find a collection of projects I�
 ---
 
 ## 1. **[CO2 Emission Prediction - Spain 🌍💨](https://github.com/ikhsannovianto/co2-emission-prediction-spain)**  
-![CO2 Emission Prediction](docs-images/actual-prediction.png) 
+<img src="docs-images/actual-prediction.png" alt="CO2 Emission Prediction" width="400" style="border-radius: 10px; margin-bottom: 10px;">  
+
 **Theme:** Green Economy 🌱  
-**Technologies Used:** Python, Jupyter Notebook, Random Forest, scikit-learn, Pandas, Numpy, etc
+**Technologies Used:** Python, Jupyter Notebook, Random Forest, scikit-learn, Pandas, Numpy, etc  
 This project focuses on predicting CO2 emissions based on industrial and economic indicators in Spain from 2010 to 2022 using **Random Forest Regression**. The goal is to uncover key drivers of CO2 emissions and promote data-driven strategies for sustainable development. 
 
 **Key Highlights:**  
@@ -19,20 +20,22 @@ This project focuses on predicting CO2 emissions based on industrial and economi
 ---
 
 ## 2. **[Real Madrid Android App ⚽📱](https://github.com/ikhsannovianto/Real-Madrid-App)**  
-![Real Madrid App](docs-images/preview-app.jpg) 
+<img src="docs-images/preview-app.jpg" alt="Real Madrid App" width="400" style="border-radius: 10px; margin-bottom: 10px;">  
+
 **Technologies Used:** Kotlin, Android Studio, RecyclerView, Fragments  
 This Android app was developed using **Kotlin** and **Android Studio**, featuring three main fragments: Home, Legends, and Profile. The app showcases Real Madrid legends in a **RecyclerView** and allows users to view detailed profiles of legendary players.
 
 **Key Highlights:**  
 - Fragment-based architecture (Home, Legend, Profile)  
-- Dynamic display of Real Madrid legends  
-- Data-driven design with Kotlin  
+- Dynamic list display of Real Madrid legends  
+- Showcase of object-oriented principles in Kotlin for app development  
 - Interactive UI for user engagement
 
 ---
 
 ## 3. **[Iuran Warga Web App 💻💰](https://github.com/ikhsannovianto/Iuran-Warga-App)**  
-![Iuran Warga Web App](docs-images/dashboard-preview.png)
+<img src="docs-images/dashboard-preview.png" alt="Iuran Warga Web App" width="400" style="border-radius: 10px; margin-bottom: 10px;">  
+
 **Technologies Used:** PHP, Laravel, MySQL, XAMPP  
 A web application built with **Laravel** for managing resident contributions. The app allows two user roles (Admin and User) to perform CRUD operations and export data to **Excel** and **PDF** formats. It leverages **MySQL** and **XAMPP** for backend and database management.
 
@@ -45,7 +48,8 @@ A web application built with **Laravel** for managing resident contributions. Th
 ---
 
 ## 4. **[Game Space War 🌍👾](https://github.com/ikhsannovianto/Game-Space-War)**  
-![Game Space War](docs-images/game-preview.png) 
+<img src="docs-images/game-preview.png" alt="Game Space War" width="400" style="border-radius: 10px; margin-bottom: 10px;">  
+
 **Theme:** Arcade Game Development 🎮  
 **Technologies Used:** Java, Greenfoot  
 
@@ -63,4 +67,4 @@ A web application built with **Laravel** for managing resident contributions. Th
 ## 🔗 **Connect with Me**  
 Feel free to reach out or connect with me through LinkedIn for collaboration or discussions on these projects!
 
-- [LinkedIn Profile](www.linkedin.com/in/ikhsanarinovianto)
+- [LinkedIn Profile](https://www.linkedin.com/in/ikhsanarinovianto)
