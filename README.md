@@ -19,17 +19,21 @@ This project focuses on predicting CO2 emissions based on industrial and economi
 
 ---
 
-## 2. **<a href="https://github.com/ikhsannovianto/Real-Madrid-App" target="_blank">Real Madrid Android App ⚽📱</a>**  
-<img src="docs-images/preview-app.jpg" alt="Real Madrid App" width="300" style="border-radius: 10px; margin-bottom: 10px; display: block;"> 
+## 2. **[La Resistencia Verde: Transformasi Ekonomi Hijau di Negeri Matador 🌍💚](https://lookerstudio.google.com/reporting/10db9fac-35bb-42b5-b9b7-21a660affd7d)**  
+![La Resistencia Verde](docs-images/green-economy-visualization.jpg)
 
-**Technologies Used:** Kotlin, Android Studio, RecyclerView, Fragments  
-This Android app was developed using **Kotlin** and **Android Studio**, featuring three main fragments: Home, Legends, and Profile. The app showcases Real Madrid legends in a **RecyclerView** and allows users to view detailed profiles of legendary players.
+**Theme:** Green Economy & Sustainability 🌱  
+**Technologies Used:** Looker Studio, Data Visualization, Reporting  
+
+This project presents a comprehensive data visualization on Spain’s economic transformation toward sustainability, focusing on the government’s initiatives, green growth, and the intersection of environmental policies with economic performance.
 
 **Key Highlights:**  
-- Fragment-based architecture (Home, Legend, Profile)  
-- Dynamic list display of Real Madrid legends  
-- Showcase of object-oriented principles in Kotlin for app development  
-- Interactive UI for user engagement
+- Interactive dashboards exploring green growth and economic performance in Spain  
+- Visualizing CO2 emissions, renewable energy adoption, and sustainability efforts  
+- Data-driven insights to support decision-making processes  
+- Available for download as a PDF for offline access
+
+**Link:** [View the Report](https://lookerstudio.google.com/reporting/10db9fac-35bb-42b5-b9b7-21a660affd7d)
 
 ---
 
@@ -44,6 +48,20 @@ A web application built with **Laravel** for managing resident contributions. Th
 - CRUD functionality for managing resident contributions  
 - Exporting data to Excel and PDF  
 - Dashboard and reports for data analysis
+
+---
+
+## 2. **<a href="https://github.com/ikhsannovianto/Real-Madrid-App" target="_blank">Real Madrid Android App ⚽📱</a>**  
+<img src="docs-images/preview-app.jpg" alt="Real Madrid App" width="300" style="border-radius: 10px; margin-bottom: 10px; display: block;"> 
+
+**Technologies Used:** Kotlin, Android Studio, RecyclerView, Fragments  
+This Android app was developed using **Kotlin** and **Android Studio**, featuring three main fragments: Home, Legends, and Profile. The app showcases Real Madrid legends in a **RecyclerView** and allows users to view detailed profiles of legendary players.
+
+**Key Highlights:**  
+- Fragment-based architecture (Home, Legend, Profile)  
+- Dynamic list display of Real Madrid legends  
+- Showcase of object-oriented principles in Kotlin for app development  
+- Interactive UI for user engagement
 
 ---
 
