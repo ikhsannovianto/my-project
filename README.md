@@ -19,8 +19,8 @@ This project focuses on predicting CO2 emissions based on industrial and economi
 
 ---
 
-## 2. **[La Resistencia Verde: Transformasi Ekonomi Hijau di Negeri Matador 🌍💚](https://lookerstudio.google.com/reporting/10db9fac-35bb-42b5-b9b7-21a660affd7d)**  
-![La Resistencia Verde](docs-images/green-economy-visualization.png)
+## 2. **[La Resistencia Verde: Transformasi Ekonomi Hijau di Negeri Matador 🌍💚](https://lookerstudio.google.com/reporting/10db9fac-35bb-42b5-b9b7-21a660affd7d)** 
+<img src="docs-images/green-economy-visualization.png" alt="La Resistencia Verde" width="300" style="border-radius: 10px; margin-bottom: 10px; display: block;">
 
 **Theme:** Green Economy & Sustainability 🌱  
 **Technologies Used:** Looker Studio, Data Visualization, Reporting  
@@ -51,7 +51,7 @@ A web application built with **Laravel** for managing resident contributions. Th
 
 ---
 
-## 2. **<a href="https://github.com/ikhsannovianto/Real-Madrid-App" target="_blank">Real Madrid Android App ⚽📱</a>**  
+## 4. **<a href="https://github.com/ikhsannovianto/Real-Madrid-App" target="_blank">Real Madrid Android App ⚽📱</a>**  
 <img src="docs-images/preview-app.jpg" alt="Real Madrid App" width="300" style="border-radius: 10px; margin-bottom: 10px; display: block;"> 
 
 **Technologies Used:** Kotlin, Android Studio, RecyclerView, Fragments  
@@ -65,7 +65,7 @@ This Android app was developed using **Kotlin** and **Android Studio**, featurin
 
 ---
 
-## 4. **<a href="https://github.com/ikhsannovianto/Game-Space-War" target="_blank">Game Space War 🌍👾</a>**  
+## 5. **<a href="https://github.com/ikhsannovianto/Game-Space-War" target="_blank">Game Space War 🌍👾</a>**  
 <img src="docs-images/game-preview.png" alt="Game Space War" width="400" style="border-radius: 10px; margin-bottom: 10px;">  
 
 **Theme:** Arcade Game Development 🎮  
