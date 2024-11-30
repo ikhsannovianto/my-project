@@ -20,7 +20,7 @@ This project focuses on predicting CO2 emissions based on industrial and economi
 ---
 
 ## 2. **[Real Madrid Android App ⚽📱](https://github.com/ikhsannovianto/Real-Madrid-App)**  
-<img src="docs-images/preview-app.jpg" alt="Real Madrid App" width="400" style="border-radius: 10px; margin-bottom: 10px;">  
+<img src="docs-images/preview-app.jpg" alt="Real Madrid App" width="300" style="border-radius: 10px; margin-bottom: 10px; display: block;"> 
 
 **Technologies Used:** Kotlin, Android Studio, RecyclerView, Fragments  
 This Android app was developed using **Kotlin** and **Android Studio**, featuring three main fragments: Home, Legends, and Profile. The app showcases Real Madrid legends in a **RecyclerView** and allows users to view detailed profiles of legendary players.
