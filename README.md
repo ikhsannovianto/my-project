@@ -20,7 +20,7 @@ This project focuses on predicting CO2 emissions based on industrial and economi
 ---
 
 ## 2. **[La Resistencia Verde: Transformasi Ekonomi Hijau di Negeri Matador 🌍💚](https://lookerstudio.google.com/reporting/10db9fac-35bb-42b5-b9b7-21a660affd7d)**  
-![La Resistencia Verde](docs-images/green-economy-visualization.jpg)
+![La Resistencia Verde](docs-images/green-economy-visualization.png)
 
 **Theme:** Green Economy & Sustainability 🌱  
 **Technologies Used:** Looker Studio, Data Visualization, Reporting  
