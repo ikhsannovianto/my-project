@@ -45,7 +45,7 @@ A web application built using **Laravel** for managing resident contributions. T
 
 ---
 
-## 4. **[Real Madrid Android App](https://github.com/ikhsannovianto/Real-Madrid-App)**  
+## 4. **[Real Madrid Legends App](https://github.com/ikhsannovianto/Real-Madrid-App)**  
 <img src="docs-images/preview-app.jpg" alt="Real Madrid App" width="300" style="border-radius: 10px; margin-bottom: 10px;">  
 
 **Technologies Used:** Kotlin, Android Studio, RecyclerView, Fragments  
