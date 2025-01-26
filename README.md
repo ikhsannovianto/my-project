@@ -58,8 +58,8 @@ An Android app developed in **Kotlin** to showcase Real Madrid legends with deta
 
 ---
 
-## 5. **[Game Space War](https://github.com/ikhsannovianto/Game-Space-War)**  
-<img src="docs-images/game-preview.png" alt="Game Space War" width="400" style="border-radius: 10px; margin-bottom: 10px;">  
+## 5. **[Space War Game](https://github.com/ikhsannovianto/Game-Space-War)**  
+<img src="docs-images/game-preview.png" alt="Space War Game" width="400" style="border-radius: 10px; margin-bottom: 10px;">  
 
 **Technologies Used:** Java, Greenfoot  
 A 2D arcade game developed using **Greenfoot** and **Java**, where players defend Earth from alien invaders. The game is built with a focus on **Object-Oriented Programming (OOP)** for modular design.
