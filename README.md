@@ -1,93 +1,83 @@
-# 🚀 My Projects Portfolio
+# My Projects Portfolio
 
-Welcome to my GitHub portfolio! Here, you’ll find a collection of projects I’ve worked on, showcasing my skills in data science, machine learning, web development, and mobile app development. Below are links to the repositories along with brief descriptions of each project.
+Welcome to my GitHub portfolio! Below is a collection of projects demonstrating my expertise in data science, machine learning, web development, mobile app development, and game programming.
 
 ---
 
-## 1. **<a href="https://github.com/ikhsannovianto/co2-emission-prediction-spain" target="_blank">CO2 Emission Prediction - Spain 🌍💨</a>**  
+## 1. **[CO2 Emission Prediction - Spain](https://github.com/ikhsannovianto/co2-emission-prediction-spain)**  
 <img src="docs-images/actual-prediction.png" alt="CO2 Emission Prediction" width="400" style="border-radius: 10px; margin-bottom: 10px;">  
 
-**Theme:** Green Economy 🌱  
-**Technologies Used:** Python, Jupyter Notebook, Random Forest, scikit-learn, Pandas, Numpy, etc  
-This project focuses on predicting CO2 emissions based on industrial and economic indicators in Spain from 2010 to 2022 using **Random Forest Regression**. The goal is to uncover key drivers of CO2 emissions and promote data-driven strategies for sustainable development. 
+**Technologies Used:** Python, Jupyter Notebook, Random Forest, scikit-learn, Pandas, Numpy  
+Predicting CO2 emissions in Spain (2010–2022) based on industrial and economic indicators using **Random Forest Regression**. The project identifies key emission drivers and supports data-driven sustainability strategies.
 
 **Key Highlights:**  
 - Data preprocessing, EDA, and feature engineering  
-- Model building with Random Forest Regressor  
-- Hyperparameter tuning for improved accuracy  
-- Visualizations including learning curves and predictions vs. actual data
+- Model building and hyperparameter tuning for improved accuracy  
+- Visualizations including learning curves and prediction comparisons
 
 ---
 
-## 2. **[La Resistencia Verde: Transformasi Ekonomi Hijau di Negeri Matador 🌍💚](https://lookerstudio.google.com/reporting/10db9fac-35bb-42b5-b9b7-21a660affd7d)** 
-<img src="docs-images/green-economy-visualization.png" alt="La Resistencia Verde" width="300" style="border-radius: 10px; margin-bottom: 10px; display: block;">
+## 2. **[La Resistencia Verde: Transformasi Ekonomi Hijau di Negeri Matador](https://lookerstudio.google.com/reporting/10db9fac-35bb-42b5-b9b7-21a660affd7d)**  
+<img src="docs-images/green-economy-visualization.png" alt="La Resistencia Verde" width="300" style="border-radius: 10px; margin-bottom: 10px;">  
 
-**Theme:** Green Economy & Sustainability 🌱  
-**Technologies Used:** Looker Studio, Data Visualization, Reporting  
-
-This project presents a comprehensive data visualization on Spain’s economic transformation toward sustainability, focusing on the government’s initiatives, green growth, and the intersection of environmental policies with economic performance.
+**Technologies Used:** Looker Studio, Data Visualization  
+An interactive dashboard analyzing Spain’s green economy transformation, with a focus on CO2 emissions, renewable energy adoption, and economic growth. Data-driven insights guide sustainability policy decisions.
 
 **Key Highlights:**  
-- Interactive dashboards exploring green growth and economic performance in Spain  
-- Visualizing CO2 emissions, renewable energy adoption, and sustainability efforts  
-- Data-driven insights to support decision-making processes  
-- Available for download as a PDF for offline access
+- Visualizing key metrics for Spain’s transition to sustainability  
+- Interactive data exploration with insights for policy support  
+- Available as a downloadable PDF for offline access
 
 **Link:** [View the Report](https://lookerstudio.google.com/reporting/10db9fac-35bb-42b5-b9b7-21a660affd7d)
 
 ---
 
-## 3. **<a href="https://github.com/ikhsannovianto/Iuran-Warga-App" target="_blank">Iuran Warga Web App 💻💰</a>**  
+## 3. **[Iuran Warga Web App](https://github.com/ikhsannovianto/Iuran-Warga-App)**  
 <img src="docs-images/dashboard-preview.png" alt="Iuran Warga Web App" width="400" style="border-radius: 10px; margin-bottom: 10px;">  
 
 **Technologies Used:** PHP, Laravel, MySQL, XAMPP  
-A web application built with **Laravel** for managing resident contributions. The app allows two user roles (Admin and User) to perform CRUD operations and export data to **Excel** and **PDF** formats. It leverages **MySQL** and **XAMPP** for backend and database management.
+A web application built using **Laravel** for managing resident contributions. The app includes role-based access, CRUD functionality, and data export features to **Excel** and **PDF**.
 
 **Key Highlights:**  
-- User role management (Admin and User)  
-- CRUD functionality for managing resident contributions  
-- Exporting data to Excel and PDF  
-- Dashboard and reports for data analysis
+- Role management (Admin and User) with CRUD operations  
+- Data export to Excel/PDF for reporting  
+- Dashboard for tracking and visualizing payments  
 
 ---
 
-## 4. **<a href="https://github.com/ikhsannovianto/Real-Madrid-App" target="_blank">Real Madrid Android App ⚽📱</a>**  
-<img src="docs-images/preview-app.jpg" alt="Real Madrid App" width="300" style="border-radius: 10px; margin-bottom: 10px; display: block;"> 
+## 4. **[Real Madrid Android App](https://github.com/ikhsannovianto/Real-Madrid-App)**  
+<img src="docs-images/preview-app.jpg" alt="Real Madrid App" width="300" style="border-radius: 10px; margin-bottom: 10px;">  
 
 **Technologies Used:** Kotlin, Android Studio, RecyclerView, Fragments  
-This Android app was developed using **Kotlin** and **Android Studio**, featuring three main fragments: Home, Legends, and Profile. The app showcases Real Madrid legends in a **RecyclerView** and allows users to view detailed profiles of legendary players.
+An Android app developed in **Kotlin** to showcase Real Madrid legends with detailed player profiles displayed in a dynamic list. It features a fragment-based UI for seamless navigation.
 
 **Key Highlights:**  
-- Fragment-based architecture (Home, Legend, Profile)  
-- Dynamic list display of Real Madrid legends  
-- Showcase of object-oriented principles in Kotlin for app development  
-- Interactive UI for user engagement
+- Fragment-based UI (Home, Legend, Profile)  
+- Dynamic player listing with detailed profiles  
+- Applied object-oriented principles for maintainability and scalability  
 
 ---
 
-## 5. **<a href="https://github.com/ikhsannovianto/Game-Space-War" target="_blank">Game Space War 🌍👾</a>**  
+## 5. **[Game Space War](https://github.com/ikhsannovianto/Game-Space-War)**  
 <img src="docs-images/game-preview.png" alt="Game Space War" width="400" style="border-radius: 10px; margin-bottom: 10px;">  
 
-**Theme:** Arcade Game Development 🎮  
 **Technologies Used:** Java, Greenfoot  
-
-**Game Space War** is an exciting 2D action game developed using **Greenfoot** and programmed in **Java** with a strong focus on **Object-Oriented Programming (OOP)** principles. You take on the role of an astronaut defending Earth from an alien invasion, battling waves of enemies to protect humanity while setting high scores!
+A 2D arcade game developed using **Greenfoot** and **Java**, where players defend Earth from alien invaders. The game is built with a focus on **Object-Oriented Programming (OOP)** for modular design.
 
 **Key Highlights:**  
-- **Object-Oriented Programming (OOP):** The game is structured using OOP concepts like classes, inheritance, and encapsulation for better modularity and maintainability.  
-- **Thrilling Gameplay:** Control the astronaut and battle waves of invading aliens.  
-- **Dynamic Challenges:** Difficulty increases as the game progresses, keeping players engaged.  
-- **Interactive Design:** Features immersive sound effects and engaging animations.  
-- **High Scores:** Compete to achieve the best score and set new records. 
+- **OOP Principles:** Uses classes, inheritance, and encapsulation  
+- Engaging gameplay with increasing difficulty  
+- Immersive animations and sound effects  
+- High score tracking to compete for the best performance
 
 ---
 
-## 🔗 **Connect with Me**  
-Feel free to reach out or connect with me through LinkedIn for collaboration or discussions on these projects!
+## **Connect with Me**  
+Feel free to reach out or connect with me on LinkedIn for collaboration or discussions on these projects!
 
-- <a href="https://www.linkedin.com/in/ikhsanarinovianto" target="_blank">LinkedIn Profile</a>
+- [LinkedIn Profile](https://www.linkedin.com/in/ikhsanarinovianto)
 
 ---
 
-## 📜 License
+## **License**  
 This project is licensed under the **MIT License**. You can find the full text of the MIT License in the [LICENSE](LICENSE) file in this repository.
