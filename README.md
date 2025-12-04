@@ -76,8 +76,3 @@ A 2D arcade game developed using **Greenfoot** and **Java**, where players defen
 Feel free to reach out or connect with me on LinkedIn for collaboration or discussions on these projects!
 
 - [LinkedIn Profile](https://www.linkedin.com/in/ikhsanarinovianto)
-
----
-
-## **License**  
-This project is licensed under the **MIT License**. You can find the full text of the MIT License in the [LICENSE](LICENSE) file in this repository.
