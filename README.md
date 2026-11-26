@@ -4,7 +4,20 @@ Welcome to my GitHub portfolio! Below is a collection of projects demonstrating 
 
 ---
 
-## 1. **[CO2 Emission Prediction - Spain](https://github.com/ikhsannovianto/co2-emission-prediction-spain)**  
+## 1. **[Stock Price Forecasting of PT Telkom Indonesia (TLKM)](https://github.com/ikhsannovianto/tlkm-stock-price-forecasting)**  
+<img src="docs-images/Result.png" alt="TLKM Stock Price Forecasting Result" width="400" style="border-radius: 10px; margin-bottom: 10px;">  
+
+**Technologies Used:** Python, Jupyter Notebook, Deep Learning (GRU, Attention Mechanism), Pandas, NumPy  
+Undergraduate thesis comparing two deep learning models, **GRU** and **GRU with Attention Mechanism (GRU-AM)**, to forecast the daily closing price of PT Telkom Indonesia (TLKM).
+
+**Key Highlights:**  
+- 2,710 daily records from Yahoo Finance (Jan 2015 – Dec 2025)  
+- Grid search over 81 hyperparameter combinations per model, evaluated on 271 trading days  
+- Evaluated with RMSE, MAE, MAPE, and R-squared; statistical tests (Diebold-Mariano, Wilcoxon, block bootstrap) showed no significant difference between the models
+
+---
+
+## 2. **[CO2 Emission Prediction - Spain](https://github.com/ikhsannovianto/co2-emission-prediction-spain)**  
 <img src="docs-images/actual-prediction.png" alt="CO2 Emission Prediction" width="400" style="border-radius: 10px; margin-bottom: 10px;">  
 
 **Technologies Used:** Python, Jupyter Notebook, Random Forest, scikit-learn, Pandas, Numpy  
@@ -17,7 +30,7 @@ Predicting CO2 emissions in Spain (2010–2022) based on industrial and economic
 
 ---
 
-## 2. **[La Resistencia Verde: Transformasi Ekonomi Hijau di Negeri Matador](https://lookerstudio.google.com/reporting/10db9fac-35bb-42b5-b9b7-21a660affd7d)**  
+## 3. **[La Resistencia Verde: Transformasi Ekonomi Hijau di Negeri Matador](https://lookerstudio.google.com/reporting/10db9fac-35bb-42b5-b9b7-21a660affd7d)**  
 <img src="docs-images/green-economy-visualization.png" alt="La Resistencia Verde" width="300" style="border-radius: 10px; margin-bottom: 10px;">  
 
 **Technologies Used:** Looker Studio, Data Visualization  
@@ -32,7 +45,7 @@ An interactive dashboard analyzing Spain’s green economy transformation, with 
 
 ---
 
-## 3. **[Iuran Warga Web App](https://github.com/ikhsannovianto/Iuran-Warga-App)**  
+## 4. **[Iuran Warga Web App](https://github.com/ikhsannovianto/Iuran-Warga-App)**  
 <img src="docs-images/dashboard-preview.png" alt="Iuran Warga Web App" width="400" style="border-radius: 10px; margin-bottom: 10px;">  
 
 **Technologies Used:** PHP, Laravel, MySQL, XAMPP  
@@ -45,7 +58,7 @@ A web application built using **Laravel** for managing resident contributions. T
 
 ---
 
-## 4. **[Real Madrid Legends App](https://github.com/ikhsannovianto/Real-Madrid-App)**  
+## 5. **[Real Madrid Legends App](https://github.com/ikhsannovianto/Real-Madrid-App)**  
 <img src="docs-images/preview-app.jpg" alt="Real Madrid App" width="300" style="border-radius: 10px; margin-bottom: 10px;">  
 
 **Technologies Used:** Kotlin, Android Studio, RecyclerView, Fragments  
@@ -58,7 +71,7 @@ An Android app developed in **Kotlin** to showcase Real Madrid legends with deta
 
 ---
 
-## 5. **[Space War Game](https://github.com/ikhsannovianto/Game-Space-War)**  
+## 6. **[Space War Game](https://github.com/ikhsannovianto/Game-Space-War)**  
 <img src="docs-images/game-preview.png" alt="Space War Game" width="400" style="border-radius: 10px; margin-bottom: 10px;">  
 
 **Technologies Used:** Java, Greenfoot  
